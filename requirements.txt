@@ -1,0 +1,6 @@
+face-recognition-models==0.3.0
+opencv-contrib-python==4.8.0.76
+opencv-python==4.7.0.72
+PyYAML==6.0
+pyzbar==0.1.9
+qrcode==7.4.2
